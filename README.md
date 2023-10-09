@@ -593,7 +593,7 @@ Change this to start the docker container on system start.
 
 1. SSH keys are used to securely access my public server.
 2. The system is updated to maintain its security.
-3. A user with sudo privileges is used for everyday tasks.
+3. A user with sudo privileges is created for everyday tasks.
 4. A firewall is enabled to prevent unwanted or unnecessary network traffic 
 5. All other SSH logins options are disabled.
 6. System packages the server needs to function are installed.
